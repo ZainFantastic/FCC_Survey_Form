@@ -149,7 +149,7 @@ input[type="submit"]{
 /*small screen max width 768px */
 @media all and (max-width:768px){
   html{
-    font-size: 85%;
+    font-size: 75%;
   }
 
   main{
