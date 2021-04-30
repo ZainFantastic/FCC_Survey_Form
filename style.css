@@ -36,6 +36,7 @@ html{
   box-sizing: inherit;
 }
 
+
 body{
   margin:0;
   padding:0;
@@ -145,8 +146,14 @@ input[type="submit"]{
   background-color:#06d6a0;
 }
 
+/*small screen max width 768px */
 @media all and (max-width:768px){
   html{
     font-size: 85%;
+  }
+
+  main{
+    margin:0;
+    border-radius: 0;
   }
 }
