@@ -144,3 +144,9 @@ input[type="submit"]{
   color:#ffffff;
   background-color:#06d6a0;
 }
+
+@media all and (max-width:768px){
+  html{
+    font-size: 85%;
+  }
+}
